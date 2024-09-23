@@ -1,0 +1,181 @@
+Company,File No.,Opened,Closed,Coverage,SubCoverage,Reason,SubReason,Disposition,Conclusion,Recovery,Status
+"Oxford Health Plans (CT), Inc",7054984,06/08/2023,06/13/2023,Group,Health Only,Claim Handling,Medical Necessity,Company Position Substantiated,Coverage Denied,0.0,Closed
+"ConnectiCare Benefits, Inc.",7046842,07/27/2022,08/31/2022,A & H,Exchange,Claim Handling,Unsatisfactory Settlement,Company Position Substantiated,Company Position Upheld,0.0,Closed
+ReliaStar Life Insurance Company,7056274,08/01/2023,09/06/2023,Individual Annuities,Fixed,Claim Handling,Prompt Pay,Company Position Substantiated,Furnished Information,0.0,Closed
+"Anthem Health Plans, Inc",7045021,05/09/2022,06/09/2022,Group,A & H,Claim Handling,UR MEDICALLY NECESSARY DENIAL,Company Position Substantiated,External Review Info Sent,0.0,Closed
+Underwriters at Lloyds London,7019177,05/13/2019,06/14/2019,Commercial Multi-Peril,Commercial Fire,Claim Handling,Unsatisfactory Settlement/Offer,Company Position Substantiated,Refer To Appraisal,0.0,Closed
+Cigna Health and Life Insurance Company,7057039,08/25/2023,09/15/2023,A & H,A & H,PolicyHolder Service,Policy Service Delay,Company Position Substantiated,Company Position Upheld,0.0,Closed
+"Humana Benefit Plan of Illinois, Inc.",7063050,03/28/2024,05/08/2024,A & H,A & H,Claim Handling,Claim Delay,Question of Fact/Contract/Provision/Legal Issue,Contract Provision,0.0,Closed
+UnitedHealthcare Insurance Company,7054744,05/31/2023,06/23/2023,Group,A & H,Claim Handling,Unsatisfactory Settlement,Question of Fact/Contract/Provision/Legal Issue,Contract Provision,0.0,Closed
+"Anthem Health Plans, Inc",7067133,08/14/2024,09/05/2024,Group,Health Only,Claim Handling,Medical Necessity,Question of Fact/Contract/Provision/Legal Issue,Contract Provision,0.0,Closed
+"Anthem Health Plans, Inc",7064917,05/31/2024,06/18/2024,A & H,Health Only,PolicyHolder Service,Policy Issue Delay,Compromised Settlement/Resolution,Policy Issued,0.0,Closed
+UnitedHealthcare Insurance Company,7052672,03/16/2023,04/21/2023,A & H,Health Only,Claim Handling,Unsatisfactory Offer,Claim Settled,Claim Paid With Interest,2118.38,Closed
+"Sentinel Insurance Company, Ltd",7047847,09/12/2022,12/07/2022,Individual Private Passenger,Liability,Claim Handling,Unsatisfactory Settlement/Offer,Company Position Substantiated,Company Position Upheld,15057.78,Closed
+UnitedHealthcare Insurance Company,7050459,01/03/2023,01/19/2023,A & H,Health Only,PolicyHolder Service,Coverage Question,Compromised Settlement/Resolution,Furnished Information,0.0,Closed
+"Anthem Health Plans, Inc",7054410,05/18/2023,07/25/2023,A & H,Health Only,PolicyHolder Service,Provider Listing Dispute,Claim Settled,Claim Paid,8129.46,Closed
+"CaremarkPCS Health, L.L.C. dba CVS Caremark",7058191,10/12/2023,11/29/2023,A & H,A & H,Claim Handling,Medical Necessity,Company Position Substantiated,Coverage Denied,0.0,Closed
+"Anthem Health Plans, Inc",7054037,05/04/2023,06/07/2023,A & H,Health Only,Claim Handling,Provider Contract Issue,Company Position Substantiated,Provider Issue,0.0,Closed
+Genworth Life Insurance Company,7060842,01/19/2024,02/27/2024,Group,Health Only,PolicyHolder Service,Unprofessional Conduct by Insurer,No Action Requested/Required,Satisfactory Explanation,0.0,Closed
+Aetna Health and Life Insurance Company,7063265,04/08/2024,05/01/2024,A & H,Health Only,Claim Handling,Medical Necessity Denial,Company Position Substantiated,External Review Info Sent,0.0,Closed
+"Anthem Health Plans, Inc",7050920,01/19/2023,03/06/2023,Group,Health Only,Claim Handling,Coordination of Benefits,Claim Reopened,Claim Paid,811.5,Closed
+"Oxford Health Plans (CT), Inc",7052940,03/27/2023,04/24/2023,A & H,A & H,Claim Handling,Unsatisfactory Settlement/Offer,Claim Settled,Voluntary Reconsideration,352.97,Closed
+"Anthem Health Plans, Inc",7057248,09/05/2023,10/13/2023,A & H,Self Funded/ERISA,Claim Handling,Medical Necessity,Company Position Overturned,Coverage Granted,0.0,Closed
+"ConnectiCare Insurance Company, Inc",7049424,11/15/2022,01/12/2023,Individual,Health Only,Claim Handling,Unsatisfactory Settlement,Claim Settled,Claim Paid,67.78,Closed
+Metropolitan Life Insurance Company,7052675,03/16/2023,04/10/2023,Individual Life,Term,Claim Handling,Claim Denial,Compromised Settlement/Resolution,Claim Paid With Interest,0.0,Closed
+"CaremarkPCS Health, L.L.C. dba CVS Caremark",7062077,02/28/2024,03/04/2024,Group,A & H,Claim Handling,Medical Necessity,Company Position Substantiated,Coverage Denied,0.0,Closed
+UnitedHealthcare Insurance Company,7053372,04/12/2023,04/28/2023,Group,A & H,Claim Handling,Medical Necessity Denial,Question of Fact/Contract/Provision/Legal Issue,Satisfactory Explanation,0.0,Closed
+"Anthem Health Plans, Inc",7062149,02/29/2024,03/22/2024,Group,A & H,Claim Handling,Unsatisfactory Settlement/Offer,Claim Settled,Provider Issue,0.0,Closed
+Western World Insurance Company,7042656,02/03/2022,06/02/2022,Commercial Multi-Peril,Fire - Real Property,Claim Handling,Adjuster Handling,Claim Settled,Corrective Action,311596.73,Closed
+UnitedHealthcare Insurance Company,7064577,05/21/2024,07/16/2024,A & H,A & H,Claim Handling,Surprise Billing,Claim Settled,Claim Paid,4758.12,Closed
+Penn Mutual Life Insurance Company,7062922,03/25/2024,04/11/2024,Individual Annuities,Fixed,Claim Handling,Claim Procedure,Company Position Substantiated,Contract Provision,0.0,Closed
+UnitedHealthcare Insurance Company,7061836,02/20/2024,02/23/2024,Group,A & H,Claim Handling,Medical Necessity,Company Position Overturned,Coverage Granted,0.0,Closed
+"Anthem Health Plans, Inc",7041468,12/14/2021,04/26/2022,A & H,A & H,Claim Handling,Claim Procedure,Claim Settled,Claim Paid,5125.8,Closed
+"Anthem Health Plans, Inc",7044808,05/02/2022,06/22/2022,Group,Health Only,Claim Handling,UR MEDICALLY NECESSARY DENIAL,Company Position Substantiated,Company Position Upheld,0.0,Closed
+"Anthem Health Plans, Inc",7040713,11/09/2021,12/08/2021,A & H,Exchange,Claim Handling,Claim Denial,Company Position Substantiated,Furnished Information,0.0,Closed
+Progressive Direct Insurance Company,7046906,07/29/2022,09/01/2022,Individual Private Passenger,Collision,Claim Handling,Adjuster Handling,Company Position Substantiated,Enter Arbitration,0.0,Closed
+"Anthem Health Plans, Inc",7055042,06/13/2023,06/28/2023,Individual,Exchange,PolicyHolder Service,Delivery of Policy,No Action Requested/Required,Satisfied,0.0,Closed
+UnitedHealthcare Insurance Company,7056821,08/16/2023,09/20/2023,Group,Health Only,Claim Handling,Medical Necessity Denial,Company Position Substantiated,Coverage Denied,0.0,Closed
+SAFECO Insurance Company of Illinois,7040705,11/09/2021,10/11/2022,Individual Private Passenger,Liability,Claim Handling,Diminished Value,Claim Settled,Claim Paid,6000.0,Closed
+"Humana Benefit Plan of Illinois, Inc.",7063050,03/28/2024,05/08/2024,A & H,Medicare Supplement(Policies or Certs),Claim Handling,Claim Delay,Question of Fact/Contract/Provision/Legal Issue,Contract Provision,0.0,Closed
+"Anthem Health Plans, Inc",7065676,07/01/2024,07/19/2024,Group,A & H,Claim Handling,Claim Denial,Question of Fact/Contract/Provision/Legal Issue,Contract Provision,0.0,Closed
+"ConnectiCare Benefits, Inc.",7056482,08/08/2023,08/28/2023,Individual,Exchange,Claim Handling,Claim Handling Other,Company Position Substantiated,Company Position Upheld,0.0,Closed
+Trumbull Insurance Company,7060543,01/09/2024,01/24/2024,Individual Private Passenger,Collision,PolicyHolder Service,Coverage Question,Question of Fact/Contract/Provision/Legal Issue,Refer-Judicial/Attorney,0.0,Closed
+American General Life Insurance Company,7053939,05/02/2023,09/06/2023,Individual Annuities,Fixed,Claim Handling,Claim Delay,Compromised Settlement/Resolution,Claim Paid,0.0,Closed
+"Anthem Health Plans, Inc",7055546,07/05/2023,08/28/2023,A & H,Health Only,Claim Handling,Provider Contract Issue,Claim Settled,Provider Issue,2755.7,Closed
+Progressive Casualty Insurance Company,7049951,12/07/2022,12/30/2022,Individual Private Passenger,Liability,Claim Handling,Adjuster Handling,Company Position Overturned,Questionable,0.0,Closed
+Metropolitan Life Insurance Company,7055287,06/22/2023,07/11/2023,A & H,A & H,Claim Handling,Coordination of Benefits,Claim Settled,Claim Paid,289.0,Closed
+"Anthem Health Plans, Inc",7059727,12/07/2023,01/11/2024,Group,Health Exchange,Claim Handling,Claim Handling Other,Claim Settled,Claim Paid,3353.98,Closed
+"Anthem Health Plans, Inc",7062852,03/22/2024,07/23/2024,Group,A & H,Claim Handling,Claim Handling Other,Claim Settled,Claim Paid With Interest,14785.53,Closed
+Brighthouse Life Insurance Company,7041213,11/30/2021,01/27/2022,A & H,Long Term Care,Underwriting,Premium/Rate Increase,Company Position Substantiated,Furnished Information,0.0,Closed
+"Anthem Health Plans, Inc",7048743,10/19/2022,01/10/2023,Group,Health Only,Claim Handling,Unsatisfactory Settlement/Offer,Claim Settled,Provider Issue,5733.0,Closed
+Cigna Health and Life Insurance Company,7063071,04/01/2024,06/27/2024,Group,Health Only,Claim Handling,Claim Handling Other,Claim Settled,Provider Issue,828.2,Closed
+New Jersey Manufacturers Insurance Company,7065835,07/09/2024,08/07/2024,Individual Private Passenger,Liability,Claim Handling,Claim Delay,Claim Settled,Claim Paid,1570.38,Closed
+Ohio Security Insurance Company,7050452,01/03/2023,01/23/2023,Individual Private Passenger,Rental Reimbursement,Claim Handling,Loss of Use,Company Position Substantiated,Claim Paid,0.0,Closed
+"CaremarkPCS Health, L.L.C. dba CVS Caremark",7059967,12/14/2023,12/21/2023,A & H,A & H,Claim Handling,Medical Necessity Denial,Company Position Overturned,Coverage Granted,0.0,Closed
+"Anthem Health Plans, Inc",7052007,02/23/2023,03/17/2023,A & H,A & H,Marketing & Sales,Duplicate Coverage,Compromised Settlement/Resolution,Premium Refund,2179.32,Closed
+UnitedHealthcare Insurance Company,7060474,01/05/2024,02/05/2024,A & H,A & H,Claim Handling,Denial,Question of Fact/Contract/Provision/Legal Issue,Contract Provision,69.04,Closed
+"Anthem Health Plans, Inc",7062733,03/19/2024,05/21/2024,A & H,Health Only,Claim Handling,Denial,Claim Settled,Claim Paid,2366.78,Closed
+Old Dominion Insurance Company,7054967,06/07/2023,10/03/2023,Individual Private Passenger,Collision,Claim Handling,Actual Cash Value Dispute,Company Position Substantiated,Enter Arbitration,0.0,Closed
+Aetna Health and Life Insurance Company,7050781,01/14/2023,04/25/2023,A & H,A & H,Claim Handling,Provider Contract Issue,Claim Settled,Provider Issue,927.6,Closed
+"Anthem Health Plans, Inc",7057460,09/13/2023,01/23/2024,A & H,A & H,Claim Handling,Claim Delay,Claim Settled,Claim Paid,471.42,Closed
+"ConnectiCare Insurance Company, Inc",7064759,05/28/2024,06/06/2024,Individual,Health Exchange,Claim Handling,"Co-pay, Deductible, and Co-Insurance Issues",Claim Settled,Claim Paid,0.0,Closed
+"Anthem Health Plans, Inc",7057535,09/17/2023,10/11/2023,Group,A & H,Claim Handling,Unsatisfactory Settlement/Offer,Company Position Substantiated,Voluntary Reconsideration,1200.0,Closed
+"Anthem Health Plans, Inc",7056850,08/17/2023,09/01/2023,A & H,Health Only,Claim Handling,Claim Denial,Claim Settled,Claim Paid With Interest,0.0,Closed
+UnitedHealthcare Insurance Company,7053350,04/12/2023,06/07/2023,Group,A & H,Claim Handling,Claim Delay,Claim Settled,Claim Paid,153.85,Closed
+"Anthem Health Plans, Inc",7062063,02/28/2024,04/10/2024,A & H,Health Only,Claim Handling,Unsatisfactory Settlement,Company Position Substantiated,Company Position Upheld,0.0,Closed
+State Farm Fire & Casualty Company,7019525,03/29/2019,05/03/2019,Homeowners,Homeowners,Claim Handling,Claim Delay,Compromised Settlement/Resolution,Corrective Action,6210.01,Closed
+UnitedHealthcare Insurance Company,7054744,05/31/2023,06/23/2023,A & H,Health Only,Claim Handling,Unsatisfactory Settlement/Offer,Question of Fact/Contract/Provision/Legal Issue,Contract Provision,0.0,Closed
+"Anthem Health Plans, Inc",7064075,05/06/2024,05/22/2024,A & H,Health Only,PolicyHolder Service,Provider Listing Dispute,Claim Settled,Claim Paid With Interest,6107.69,Closed
+UnitedHealthcare Insurance Company,7057757,09/26/2023,10/18/2023,A & H,Health Only,Claim Handling,UR MEDICALLY NECESSARY DENIAL,Company Position Overturned,Coverage Granted,0.0,Closed
+CSAA Affinity Insurance Company,7053451,04/14/2023,05/16/2023,Individual Private Passenger,Collision,Claim Handling,Claim Denial,Company Position Substantiated,Cancellation Upheld,0.0,Closed
+Genworth Life Insurance Company,7061720,02/15/2024,04/16/2024,A & H,A & H,Claim Handling,Claim Delay,Company Position Substantiated,Furnished Information,0.0,Closed
+Cigna Health and Life Insurance Company,7052670,03/16/2023,05/16/2023,A & H,Self Funded/ERISA,Claim Handling,Denial,Claim Settled,Claim Paid,1976.5,Closed
+"Anthem Health Plans, Inc",7060228,12/26/2023,01/05/2024,Individual,A & H,Claim Handling,Medical Necessity,Question of Fact/Contract/Provision/Legal Issue,Contract Provision,0.0,Closed
+Cigna Health and Life Insurance Company,7064707,05/24/2024,06/07/2024,Group,A & H,Claim Handling,Denial,Claim Settled,Claim Paid,0.0,Closed
+Genworth Life Insurance Company,7060842,01/19/2024,02/27/2024,A & H,Health Only,PolicyHolder Service,Coverage Question,Question of Fact/Contract/Provision/Legal Issue,Contract Provision,0.0,Closed
+UnitedHealthcare Insurance Company,7054679,05/29/2023,06/21/2023,A & H,A & H,Claim Handling,Unsatisfactory Settlement,Claim Settled,Claim Paid,0.0,Closed
+"ConnectiCare Benefits, Inc.",7054150,05/09/2023,06/06/2023,A & H,Health Only,PolicyHolder Service,Involuntary Termination by Plan,Insufficient Information,Furnished Information,0.0,Closed
+USAA Casualty Insurance Company,7019724,04/02/2019,04/24/2019,Individual Private Passenger,Liability,Claim Handling,Diminished Value,No Jurisdiction,Corrective Action,647.22,Closed
+State Farm Mutual Automobile Insurance Company,7041825,01/03/2022,01/20/2022,Individual Private Passenger,Medical Payments,Claim Handling,Unsatisfactory Settlement/Offer,Company Position Overturned,Corrective Action,1183.8,Closed
+UnitedHealthcare Insurance Company,7064577,05/21/2024,07/16/2024,A & H,Health Only,Claim Handling,Unsatisfactory Settlement,Claim Settled,Claim Paid,4758.12,Closed
+UnitedHealthcare Insurance Company,7065920,07/11/2024,08/05/2024,A & H,Health Only,Claim Handling,Claim Delays,Claim Settled,Claim Paid,70.9,Closed
+"Anthem Health Plans, Inc",7062708,03/19/2024,06/18/2024,A & H,Exchange,Claim Handling,Claim Delay,Claim Settled,Claim Paid,0.0,Closed
+"Anthem Health Plans, Inc",7064407,05/15/2024,06/18/2024,A & H,Medicare,PolicyHolder Service,Premium Notice/Billing,Company Position Overturned,Premium Refund,278.04,Closed
+UnitedHealthcare Insurance Company,7056179,07/31/2023,08/02/2023,Group,A & H,Claim Handling,Claim Handling Other,No Jurisdiction,Provider Issue,0.0,Closed
+Brighthouse Life Insurance Company,7063112,04/02/2024,04/11/2024,Individual Life,Term,Underwriting,Adverse Underwrtng Decsn,Company Position Substantiated,Contract Provision,0.0,Closed
+Dearborn Life Insurance Company,7059126,11/15/2023,01/16/2024,Group Life,Term,Claim Handling,Claim Denial,Company Position Substantiated,Satisfactory Explanation,0.0,Closed
+"Anthem Health Plans, Inc",7049534,11/17/2022,11/30/2022,A & H,Health Only,Claim Handling,Unsatisfactory Settlement,Compromised Settlement/Resolution,Provider Issue,0.0,Closed
+"Anthem Health Plans, Inc",7059508,11/30/2023,01/04/2024,Individual,A & H,Claim Handling,Primary Care Physician Referral,Claim Settled,Claim Paid,0.0,Closed
+Brighthouse Life Insurance Company,7060866,01/21/2024,02/21/2024,Individual,Health Only,Claim Handling,Claim Handling Other,Compromised Settlement/Resolution,Satisfactory Explanation,0.0,Closed
+Cigna Health and Life Insurance Company,7055200,06/19/2023,07/11/2023,Group,A & H,Claim Handling,Claim Handling Other,Claim Settled,Claim Paid,741.78,Closed
+Cigna Health and Life Insurance Company,7057783,09/26/2023,11/16/2023,Group,A & H,Claim Handling,Claim Denial,Claim Settled,Claim Paid With Interest,767.36,Closed
+State Farm Mutual Automobile Insurance Company,7041653,12/22/2021,03/08/2022,Individual Private Passenger,Collision,Claim Handling,Denial,Company Position Substantiated,Company Position Upheld,0.0,Closed
+Cigna Health and Life Insurance Company,7057878,10/02/2023,10/26/2023,A & H,A & H,Claim Handling,Claim Handling Other,Claim Settled,Claim Paid,19.77,Closed
+United States Liability Insurance Company,7059436,11/28/2023,01/24/2024,Homeowners,Fire-Real Property,Claim Handling,Adjuster Handling,Question of Fact/Contract/Provision/Legal Issue,Refer-Judicial/Attorney,0.0,Closed
+Hartford Insurance Company of the Midwest,7057485,09/14/2023,11/20/2023,Individual Private Passenger,Liability,Claim Handling,Unsatisfactory Settlement/Offer,Company Position Substantiated,Enter Arbitration,0.0,Closed
+"Anthem Health Plans, Inc",7047576,08/30/2022,09/26/2022,Individual,Medicare Supplement(Policies or Certs),Claim Handling,Coordination of Benefit,Claim Settled,Claim Paid,83.22,Closed
+UnitedHealthcare Insurance Company,7058712,10/31/2023,11/29/2023,Group,A & H,Claim Handling,Medical Necessity Denial,Company Position Overturned,Coverage Granted,0.0,Closed
+"CaremarkPCS Health, L.L.C. dba CVS Caremark",7060445,01/05/2024,01/12/2024,A & H,Self Funded/ERISA,Claim Handling,Medical Necessity,Company Position Overturned,Coverage Granted,0.0,Closed
+UnitedHealthcare Insurance Company,7066957,08/08/2024,09/05/2024,A & H,A & H,Claim Handling,Claim Delay,Referred to Outside Agency/Dept,Contract Provision,0.0,Closed
+Transamerica Financial Life Insurance Company,7051468,02/06/2023,03/27/2023,Individual,A & H,PolicyHolder Service,Policy Service,Company Position Substantiated,Company Position Upheld,0.0,Closed
+United Services Automobile Association,7049493,11/16/2022,12/21/2022,Individual Private Passenger,Collision,Claim Handling,Adjuster Handling,Company Position Substantiated,Enter Arbitration,0.0,Closed
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,A & H,PolicyHolder Service,Delays/No Response,Claim Settled,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,Group,A & H,Claim Handling,Claim Delay,Claim Settled,Claim Paid,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,Health Only,Claim Handling,Eligibility of Provider,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,A & H,Claim Handling,Out of Network Benefits,Claim Settled,Satisfied,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,Health Only,Claim Handling,Out of Network Benefits,Claim Settled,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,A & H,Claim Handling,Eligibility of Provider,Claim Settled,Satisfied,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,A & H,PolicyHolder Service,Delays/No Response,Claim Settled,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,Group,A & H,Claim Handling,Claim Delay,Claim Settled,Provider Issue,0.0,Reopened
+Colorado Bankers Life Insurance Company,7058577,10/26/2023,11/22/2023,Individual Annuities,Fixed,PolicyHolder Service,Delays/No Response,Company Position Substantiated,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,Health Only,Claim Handling,Out of Network Benefits,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,A & H,Claim Handling,Out of Network Benefits,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,Health Only,Claim Handling,Out of Network Benefits,Claim Settled,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,Health Only,Claim Handling,Eligibility of Provider,Claim Settled,Satisfied,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,A & H,Claim Handling,Out of Network Benefits,Claim Settled,Satisfied,0.0,Reopened
+"Anthem Health Plans, Inc",7043980,03/28/2022,07/25/2023,Group,Health Only,Claim Handling,Medical Necessity Denial,Company Position Overturned,Coverage Granted,674.24,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,A & H,PolicyHolder Service,Provider Listing Dispute,Claim Settled,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,Group,Health Only,Claim Handling,Claim Delay,Claim Settled,Claim Paid,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,Health Only,PolicyHolder Service,Provider Listing Dispute,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,A & H,A & H,Claim Handling,Claim Handling Other,Claim Settled,Claim Paid,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,Health Only,PolicyHolder Service,Provider Listing Dispute,Claim Settled,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7043980,03/28/2022,07/25/2023,Group,A & H,Claim Handling,Medical Necessity Denial,Company Position Overturned,Coverage Granted,674.24,Reopened
+"Anthem Health Plans, Inc",7043980,03/28/2022,07/25/2023,A & H,Health Only,Claim Handling,UR MEDICALLY NECESSARY DENIAL,Company Position Overturned,Coverage Granted,674.24,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,A & H,Claim Handling,Eligibility of Provider,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7043980,03/28/2022,07/25/2023,Group,A & H,Claim Handling,UR MEDICALLY NECESSARY DENIAL,Company Position Overturned,Coverage Granted,674.24,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,A & H,PolicyHolder Service,Provider Listing Dispute,Claim Settled,Provider Issue,0.0,Reopened
+Colorado Bankers Life Insurance Company,7058577,10/26/2023,11/22/2023,Individual Annuities,Fixed,PolicyHolder Service,Policy Service Delay by Insurer,Company Position Substantiated,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,Group,Health Only,Claim Handling,Claim Delay,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,Health Only,Claim Handling,Out of Network Benefits,Claim Settled,Satisfied,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,A & H,PolicyHolder Service,Provider Listing Dispute,Claim Settled,Satisfied,0.0,Reopened
+Brighthouse Life Insurance Company,7065732,07/02/2024,08/26/2024,Individual Life,Whole Life,PolicyHolder Service,Delays/No Response,Company Position Substantiated,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,A & H,Health Only,Claim Handling,Claim Handling Other,Claim Settled,Claim Paid,0.0,Reopened
+Hartford Life and Accident Insurance Company,7066939,08/07/2024,08/21/2024,Individual Life,Universal,PolicyHolder Service,Premium/Notice,Company Position Substantiated,Contract Provision,0.0,Reopened
+"Anthem Health Plans, Inc",7043980,03/28/2022,07/25/2023,A & H,Health Only,Claim Handling,Medical Necessity Denial,Company Position Overturned,Coverage Granted,674.24,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,Health Only,PolicyHolder Service,Delays/No Response,Claim Settled,Satisfied,0.0,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,A & H,A & H,Claim Handling,Claim Delay,Claim Settled,Claim Paid,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,Health Only,PolicyHolder Service,Delays/No Response,Claim Settled,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,A & H,A & H,Claim Handling,Claim Handling Other,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,Group,Health Only,Claim Handling,Claim Handling Other,Claim Settled,Claim Paid,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,Health Only,PolicyHolder Service,Provider Listing Dispute,Claim Settled,Satisfied,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,Health Only,Claim Handling,Out of Network Benefits,Claim Settled,Satisfied,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,A & H,PolicyHolder Service,Provider Listing Dispute,Claim Settled,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,Health Only,PolicyHolder Service,Provider Listing Dispute,Claim Settled,Satisfied,0.0,Reopened
+"Anthem Health Plans, Inc",7043980,03/28/2022,07/25/2023,Group,Health Only,Claim Handling,UR MEDICALLY NECESSARY DENIAL,Company Position Overturned,Coverage Granted,674.24,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,Group,Health Only,Claim Handling,Claim Handling Other,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,A & H,Claim Handling,Out of Network Benefits,Claim Settled,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,Health Only,PolicyHolder Service,Delays/No Response,Claim Settled,Satisfied,0.0,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,A & H,A & H,Claim Handling,Claim Delay,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,Health Only,PolicyHolder Service,Provider Listing Dispute,Claim Settled,Provider Issue,0.0,Reopened
+Hartford Life and Accident Insurance Company,7066939,08/07/2024,08/21/2024,Individual Life,Universal,Marketing & Sales,Suitability,Company Position Substantiated,Contract Provision,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,Health Only,Claim Handling,Eligibility of Provider,Claim Settled,Satisfied,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,Health Only,PolicyHolder Service,Delays/No Response,Claim Settled,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,A & H,Health Only,Claim Handling,Claim Delay,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,Group,A & H,Claim Handling,Claim Handling Other,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,Health Only,Claim Handling,Eligibility of Provider,Claim Settled,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,A & H,Claim Handling,Out of Network Benefits,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,A & H,Claim Handling,Eligibility of Provider,Claim Settled,Satisfied,0.0,Reopened
+"Anthem Health Plans, Inc",7043980,03/28/2022,07/25/2023,A & H,A & H,Claim Handling,Medical Necessity Denial,Company Position Overturned,Coverage Granted,674.24,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,A & H,Claim Handling,Eligibility of Provider,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,A & H,PolicyHolder Service,Delays/No Response,Claim Settled,Satisfied,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,Health Only,PolicyHolder Service,Delays/No Response,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,A & H,Health Only,Claim Handling,Claim Delay,Claim Settled,Claim Paid,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,Health Only,Claim Handling,Out of Network Benefits,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,A & H,Claim Handling,Eligibility of Provider,Claim Settled,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,A & H,PolicyHolder Service,Delays/No Response,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,A & H,PolicyHolder Service,Provider Listing Dispute,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,Health Only,PolicyHolder Service,Provider Listing Dispute,Claim Settled,Furnished Information,0.0,Reopened
+"Anthem Health Plans, Inc",7044350,04/11/2022,04/12/2024,Group,A & H,Claim Handling,Claim Handling Other,Claim Settled,Claim Paid,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,Health Only,Claim Handling,Eligibility of Provider,Claim Settled,Provider Issue,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,A & H,A & H,PolicyHolder Service,Provider Listing Dispute,Claim Settled,Satisfied,0.0,Reopened
+"Anthem Health Plans, Inc",7059916,12/13/2023,04/02/2024,Group,Health Only,Claim Handling,Eligibility of Provider,Claim Settled,Furnished Information,0.0,Reopened
+"ConnectiCare Insurance Company, Inc",7066644,07/31/2024,08/14/2024,Individual,Health Only,Claim Handling,Surprise Billing,Claim Settled,Claim Paid,0.0,Incomplete Follow-up
+"ConnectiCare Insurance Company, Inc",7066644,07/31/2024,08/14/2024,Individual,Exchange,Claim Handling,Claim Handling Other,Claim Settled,Claim Paid,0.0,Incomplete Follow-up
+"ConnectiCare Insurance Company, Inc",7066644,07/31/2024,08/14/2024,Individual,Exchange,Claim Handling,Surprise Billing,Claim Settled,Claim Paid,0.0,Incomplete Follow-up
+"ConnectiCare Insurance Company, Inc",7066644,07/31/2024,08/14/2024,A & H,Health Only,Claim Handling,Claim Handling Other,Claim Settled,Claim Paid,0.0,Incomplete Follow-up
+"ConnectiCare Insurance Company, Inc",7066644,07/31/2024,08/14/2024,Individual,Health Only,Claim Handling,Claim Handling Other,Claim Settled,Claim Paid,0.0,Incomplete Follow-up
+"ConnectiCare Insurance Company, Inc",7066644,07/31/2024,08/14/2024,A & H,Exchange,Claim Handling,Claim Handling Other,Claim Settled,Claim Paid,0.0,Incomplete Follow-up
+"ConnectiCare Insurance Company, Inc",7066644,07/31/2024,08/14/2024,Individual,Health Exchange,Claim Handling,Claim Handling Other,Claim Settled,Claim Paid,0.0,Incomplete Follow-up
+"ConnectiCare Insurance Company, Inc",7066644,07/31/2024,08/14/2024,A & H,Exchange,Claim Handling,Surprise Billing,Claim Settled,Claim Paid,0.0,Incomplete Follow-up
+"ConnectiCare Insurance Company, Inc",7066644,07/31/2024,08/14/2024,A & H,Health Exchange,Claim Handling,Claim Handling Other,Claim Settled,Claim Paid,0.0,Incomplete Follow-up
+"ConnectiCare Insurance Company, Inc",7066644,07/31/2024,08/14/2024,A & H,Health Only,Claim Handling,Surprise Billing,Claim Settled,Claim Paid,0.0,Incomplete Follow-up
