@@ -1,2 +1,6 @@
-# NLP_codes
- Code files for NLP and ML activites
+# Contents
+ Auto EDA using profiling, sweetviz, autoviz
+
+ Auto ML using H20
+
+ Implement SHAP for Model explainability
